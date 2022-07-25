@@ -20,6 +20,14 @@ myModule.utils module
    :undoc-members:
    :show-inheritance:
 
+myModule.utils2 module
+----------------------
+
+.. automodule:: myModule.utils2
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
 Module contents
 ---------------
 
